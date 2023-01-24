@@ -24,11 +24,3 @@ class Squares:
     def move_square(self):
         for square in self.all_squares:
             square.forward(self.square_speed)
-
-
-    # def not_caught(self):
-    #     for square in self.all_squares:
-    #         if square.ycor() > 280:
-    #             return True
-    #         else:
-    #             return False

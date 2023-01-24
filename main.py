@@ -58,16 +58,4 @@ while game_is_on:
 
     num_loop += 1
 
-
-
-
-
-
-
-
-
-
-
-
-
 screen.exitonclick()
